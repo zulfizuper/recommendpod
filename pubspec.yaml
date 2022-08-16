@@ -1,0 +1,32 @@
+name: recompod
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.6 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/recompod/assets/images/image1.png
+    - packages/recompod/assets/images/barbarianbackground.png
+    - packages/recompod/assets/images/balloonbackground.png
+    - packages/recompod/assets/images/babydragonbackground.png
+    - packages/recompod/assets/images/dragonbackground.png
+    - packages/recompod/assets/images/vector.svg
+    - packages/recompod/assets/images/image7.png
+    - packages/recompod/assets/images/image8.png
+    - packages/recompod/assets/images/image9.png
+    - packages/recompod/assets/images/image10.png
+    - packages/recompod/assets/images/image12.png
+    - packages/recompod/assets/images/rectangle9.svg
